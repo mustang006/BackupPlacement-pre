@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Jayesh Patil",
+      "age": 22,
+      "email": "jayesh.patil@example.com"
+    },
+    {
+      "name": "Sakshi Verma",
+      "age": "23567",
+      "email": "sakshi.verma@example.com",
+      "id": "3"
+    },
+    {
+      "name": "Aniket Singh",
+      "age": 25,
+      "email": "kkokokokokokok",
+      "id": "4"
+    },
+    {
+      "name": "Joker ki haveli",
+      "age": "223",
+      "email": "test@te.com",
+      "id": "97b2"
+    }
+  ]
+}

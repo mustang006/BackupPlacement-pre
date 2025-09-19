@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Async</title>
+  </head>
+  <body>
+    <h1>Chai aur Javascript</h1>
+    <button id="Start">Start</button>
+    <button id="Stop">STOP</button>
+  </body>
+  <script>
+    const sayDate = function(str){
+        console.log(str,"Abhishek" , Date.now());
+        
+    } 
+
+    const interValid = setInterval(sayDate,1000,"Hitesh")
+
+    document.querySelector('#Start').addEventListener('click',function(){
+        setInterval(sayDate,1000,"Hitesh")  
+        console.log("Process is started");
+        
+
+    })
+
+    document.querySelector('#Stop').addEventListener('click',function(){
+        
+    clearInterval(interValid)
+    console.log('function is stopped');
+    
+
+
+    })
+
+
+  </script>
+</html>

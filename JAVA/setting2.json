@@ -1,0 +1,60 @@
+{
+  "files.autoSave": "afterDelay",
+  "code-runner.runInTerminal": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSurroundingLines": 2,
+  "editor.cursorSurroundingLinesStyle": "all",
+  "editor.cursorWidth": 4,
+  "editor.cursorSmoothCaretAnimation": "on",
+
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 2,
+
+  "window.titleBarStyle": "custom",
+
+  "workbench.colorTheme": "Tokyo Night Storm",
+  "workbench.colorCustomizations": {
+    "editor.background": "#00000000",
+    "sideBar.background": "#00000000",
+    "sideBarSectionHeader.background": "#00000000",
+    "sideBarTitle.foreground": "#ffffff",
+    "activityBar.background": "#00000000",
+    "activityBar.border": "#00000000",
+    "terminal.background": "#00000000"
+  },
+
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.imports": [
+    "file:///c:/Users/apati/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+  ],
+
+  "vscode_vibrancy.type": "transparent",
+  "vscode_vibrancy.opacity": 0.12,
+  "vscode_vibrancy.blur": 0,
+  "vscode_vibrancy.theme": "Tokyo Night Storm",
+  "vscode_vibrancy.disableFramelessWindow": false,
+  "vscode_vibrancy.refreshOnThemeChange": true,
+  "vscode_vibrancy.preventFlash": true,
+
+  "background.enabled": true,
+  "background.useDefault": false,
+  "background.customImages": [
+    "file:///C:/Local/007/Wallpaper/wallpaperflare.com_wallpaper%20(14).jpg"
+  ],
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "width": "100%",
+    "height": "100%",
+    "background-position": "center",
+    "background-repeat": "no-repeat",
+    "background-size": "cover",
+    "opacity": 0.15
+  },
+  "terminal.integrated.gpuAcceleration": "off",
+  "window.systemColorTheme": "dark",
+  "window.autoDetectColorScheme": false
+}

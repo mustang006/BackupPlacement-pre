@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open 33dom.html",
+            "file": "f:\\JAVASCRIPT CHAI AUR CODE\\Dom\\33dom.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Dom/33dom.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Dom/33dom.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Asyn%20js%20Projects/two.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Asyn%20js%20Projects/two.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Asyn%20js%20Projects/three.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Asyn%20js%20Projects/three.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Asyn js Projects/three.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Asyn js Projects/three.html"
+        }
+    ]
+}

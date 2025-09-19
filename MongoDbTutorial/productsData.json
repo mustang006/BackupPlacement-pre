@@ -1,0 +1,1505 @@
+[
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9620"
+    },
+    "name": "Refrigerator Model 25",
+    "company": "64c23350e32f4a51b19b9207",
+    "price": 706,
+    "colors": [
+      "#ff0000",
+      "#ffffff",
+      "#333333"
+    ],
+    "image": "/images/product-1.png",
+    "category": "64c23426d2f4a51b19b9226",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9621"
+    },
+    "name": "Smart Speaker Model 45",
+    "company": "64c23350e32f4a51b19b9207",
+    "price": 2987,
+    "colors": [
+      "#00ff00",
+      "#000000"
+    ],
+    "image": "/images/product-2.png",
+    "category": "64c23426d2f4a51b19b9225",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9622"
+    },
+    "name": "Air Purifier Model 6",
+    "company": "64c23350e32f4a51b19b9207",
+    "price": 1407,
+    "colors": [
+      "#333333"
+    ],
+    "image": "/images/product-3.png",
+    "category": "64c23426d2f4a51b19b9217",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9623"
+    },
+    "name": "Microwave Model 49",
+    "company": "64c23350e32f4a51b19b9215",
+    "price": 1831,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-4.png",
+    "category": "64c23426d2f4a51b19b9210",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9624"
+    },
+    "name": "4K TV Model 34",
+    "company": "64c23350e32f4a51b19b9225",
+    "price": 51,
+    "colors": [
+      "#ffffff"
+    ],
+    "image": "/images/product-5.png",
+    "category": "64c23426d2f4a51b19b9204",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9625"
+    },
+    "name": "Refrigerator Model 39",
+    "company": "64c23350e32f4a51b19b9206",
+    "price": 64,
+    "colors": [
+      "#aaaaaa",
+      "#00ff00",
+      "#ffffff"
+    ],
+    "image": "/images/product-6.png",
+    "category": "64c23426d2f4a51b19b9225",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9626"
+    },
+    "name": "Fitness Band Model 38",
+    "company": "64c23350e32f4a51b19b9220",
+    "price": 970,
+    "colors": [
+      "#ff0000"
+    ],
+    "image": "/images/product-7.png",
+    "category": "64c23426d2f4a51b19b9212",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9627"
+    },
+    "name": "Camera Model 17",
+    "company": "64c23350e32f4a51b19b9200",
+    "price": 1355,
+    "colors": [
+      "#00ff00",
+      "#000000",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-8.png",
+    "category": "64c23426d2f4a51b19b9221",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9628"
+    },
+    "name": "Gaming Console Model 5",
+    "company": "64c23350e32f4a51b19b9214",
+    "price": 2272,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-9.png",
+    "category": "64c23426d2f4a51b19b9224",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9629"
+    },
+    "name": "Sunglasses Model 22",
+    "company": "64c23350e32f4a51b19b9222",
+    "price": 2533,
+    "colors": [
+      "#000000",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-10.png",
+    "category": "64c23426d2f4a51b19b9215",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9630"
+    },
+    "name": "Blender Model 37",
+    "company": "64c23350e32f4a51b19b9220",
+    "price": 2133,
+    "colors": [
+      "#333333"
+    ],
+    "image": "/images/product-11.png",
+    "category": "64c23426d2f4a51b19b9216",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9631"
+    },
+    "name": "Shoes Model 37",
+    "company": "64c23350e32f4a51b19b9217",
+    "price": 2280,
+    "colors": [
+      "#000000",
+      "#00ff00"
+    ],
+    "image": "/images/product-12.png",
+    "category": "64c23426d2f4a51b19b9205",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9632"
+    },
+    "name": "Blender Model 7",
+    "company": "64c23350e32f4a51b19b9223",
+    "price": 848,
+    "colors": [
+      "#333333",
+      "#0000ff"
+    ],
+    "image": "/images/product-13.png",
+    "category": "64c23426d2f4a51b19b9211",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9633"
+    },
+    "name": "4K TV Model 31",
+    "company": "64c23350e32f4a51b19b9228",
+    "price": 2668,
+    "colors": [
+      "#00ff00"
+    ],
+    "image": "/images/product-14.png",
+    "category": "64c23426d2f4a51b19b9206",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9634"
+    },
+    "name": "Tablet Model 2",
+    "company": "64c23350e32f4a51b19b9213",
+    "price": 972,
+    "colors": [
+      "#ff0000",
+      "#ffffff",
+      "#000000"
+    ],
+    "image": "/images/product-15.png",
+    "category": "64c23426d2f4a51b19b9213",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9635"
+    },
+    "name": "Microwave Model 2",
+    "company": "64c23350e32f4a51b19b9229",
+    "price": 694,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-16.png",
+    "category": "64c23426d2f4a51b19b9213",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9636"
+    },
+    "name": "Camera Model 32",
+    "company": "64c23350e32f4a51b19b9221",
+    "price": 61,
+    "colors": [
+      "#ff0000",
+      "#00ff00",
+      "#333333"
+    ],
+    "image": "/images/product-17.png",
+    "category": "64c23426d2f4a51b19b9221",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9637"
+    },
+    "name": "Washing Machine Model 48",
+    "company": "64c23350e32f4a51b19b9209",
+    "price": 2807,
+    "colors": [
+      "#000000",
+      "#ffffff",
+      "#333333"
+    ],
+    "image": "/images/product-18.png",
+    "category": "64c23426d2f4a51b19b9205",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9638"
+    },
+    "name": "Earbuds Model 45",
+    "company": "64c23350e32f4a51b19b9228",
+    "price": 2742,
+    "colors": [
+      "#000000",
+      "#aaaaaa",
+      "#0000ff"
+    ],
+    "image": "/images/product-19.png",
+    "category": "64c23426d2f4a51b19b9200",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9639"
+    },
+    "name": "4K TV Model 40",
+    "company": "64c23350e32f4a51b19b9225",
+    "price": 1107,
+    "colors": [
+      "#ffffff",
+      "#ff0000",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-20.png",
+    "category": "64c23426d2f4a51b19b9215",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9640"
+    },
+    "name": "Skin Care Kit Model 7",
+    "company": "64c23350e32f4a51b19b9208",
+    "price": 1439,
+    "colors": [
+      "#ffffff",
+      "#333333"
+    ],
+    "image": "/images/product-21.png",
+    "category": "64c23426d2f4a51b19b9222",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9641"
+    },
+    "name": "Microwave Model 47",
+    "company": "64c23350e32f4a51b19b9206",
+    "price": 2870,
+    "colors": [
+      "#000000",
+      "#ffffff",
+      "#333333"
+    ],
+    "image": "/images/product-22.png",
+    "category": "64c23426d2f4a51b19b9213",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9642"
+    },
+    "name": "Shoes Model 27",
+    "company": "64c23350e32f4a51b19b9223",
+    "price": 2978,
+    "colors": [
+      "#ff0000",
+      "#00ff00"
+    ],
+    "image": "/images/product-23.png",
+    "category": "64c23426d2f4a51b19b9222",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9643"
+    },
+    "name": "Air Purifier Model 6",
+    "company": "64c23350e32f4a51b19b9200",
+    "price": 1984,
+    "colors": [
+      "#ff0000"
+    ],
+    "image": "/images/product-24.png",
+    "category": "64c23426d2f4a51b19b9206",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9644"
+    },
+    "name": "Tablet Model 2",
+    "company": "64c23350e32f4a51b19b9202",
+    "price": 1857,
+    "colors": [
+      "#aaaaaa",
+      "#000000"
+    ],
+    "image": "/images/product-25.png",
+    "category": "64c23426d2f4a51b19b9221",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9645"
+    },
+    "name": "Smart Speaker Model 19",
+    "company": "64c23350e32f4a51b19b9207",
+    "price": 1752,
+    "colors": [
+      "#00ff00",
+      "#000000"
+    ],
+    "image": "/images/product-26.png",
+    "category": "64c23426d2f4a51b19b9226",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9646"
+    },
+    "name": "Camera Model 19",
+    "company": "64c23350e32f4a51b19b9221",
+    "price": 2393,
+    "colors": [
+      "#000000",
+      "#0000ff",
+      "#ffffff"
+    ],
+    "image": "/images/product-27.png",
+    "category": "64c23426d2f4a51b19b9208",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9647"
+    },
+    "name": "Skin Care Kit Model 6",
+    "company": "64c23350e32f4a51b19b9208",
+    "price": 560,
+    "colors": [
+      "#333333",
+      "#aaaaaa",
+      "#000000"
+    ],
+    "image": "/images/product-28.png",
+    "category": "64c23426d2f4a51b19b9202",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9648"
+    },
+    "name": "Smart Speaker Model 42",
+    "company": "64c23350e32f4a51b19b9212",
+    "price": 1497,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-29.png",
+    "category": "64c23426d2f4a51b19b9204",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9649"
+    },
+    "name": "Camera Model 17",
+    "company": "64c23350e32f4a51b19b9221",
+    "price": 101,
+    "colors": [
+      "#0000ff",
+      "#ff0000",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-30.png",
+    "category": "64c23426d2f4a51b19b9210",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9650"
+    },
+    "name": "Laptop Model 43",
+    "company": "64c23350e32f4a51b19b9209",
+    "price": 276,
+    "colors": [
+      "#aaaaaa",
+      "#00ff00",
+      "#333333"
+    ],
+    "image": "/images/product-31.png",
+    "category": "64c23426d2f4a51b19b9218",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9651"
+    },
+    "name": "Earbuds Model 19",
+    "company": "64c23350e32f4a51b19b9223",
+    "price": 1278,
+    "colors": [
+      "#000000"
+    ],
+    "image": "/images/product-32.png",
+    "category": "64c23426d2f4a51b19b9218",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9652"
+    },
+    "name": "Tablet Model 27",
+    "company": "64c23350e32f4a51b19b9212",
+    "price": 2660,
+    "colors": [
+      "#000000"
+    ],
+    "image": "/images/product-33.png",
+    "category": "64c23426d2f4a51b19b9228",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9653"
+    },
+    "name": "Blender Model 28",
+    "company": "64c23350e32f4a51b19b9205",
+    "price": 2902,
+    "colors": [
+      "#00ff00",
+      "#ff0000"
+    ],
+    "image": "/images/product-34.png",
+    "category": "64c23426d2f4a51b19b9221",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9654"
+    },
+    "name": "Gaming Console Model 43",
+    "company": "64c23350e32f4a51b19b9220",
+    "price": 2177,
+    "colors": [
+      "#333333"
+    ],
+    "image": "/images/product-35.png",
+    "category": "64c23426d2f4a51b19b9202",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9655"
+    },
+    "name": "Earbuds Model 42",
+    "company": "64c23350e32f4a51b19b9209",
+    "price": 2060,
+    "colors": [
+      "#00ff00",
+      "#000000"
+    ],
+    "image": "/images/product-36.png",
+    "category": "64c23426d2f4a51b19b9201",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9656"
+    },
+    "name": "Blender Model 30",
+    "company": "64c23350e32f4a51b19b9223",
+    "price": 2617,
+    "colors": [
+      "#00ff00"
+    ],
+    "image": "/images/product-37.png",
+    "category": "64c23426d2f4a51b19b9229",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9657"
+    },
+    "name": "Tablet Model 5",
+    "company": "64c23350e32f4a51b19b9225",
+    "price": 1024,
+    "colors": [
+      "#0000ff",
+      "#ff0000",
+      "#000000"
+    ],
+    "image": "/images/product-38.png",
+    "category": "64c23426d2f4a51b19b9212",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9658"
+    },
+    "name": "Gaming Console Model 1",
+    "company": "64c23350e32f4a51b19b9216",
+    "price": 384,
+    "colors": [
+      "#aaaaaa",
+      "#ffffff"
+    ],
+    "image": "/images/product-39.png",
+    "category": "64c23426d2f4a51b19b9217",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9659"
+    },
+    "name": "Sunglasses Model 11",
+    "company": "64c23350e32f4a51b19b9200",
+    "price": 1085,
+    "colors": [
+      "#ff0000"
+    ],
+    "image": "/images/product-40.png",
+    "category": "64c23426d2f4a51b19b9221",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9660"
+    },
+    "name": "Sunglasses Model 5",
+    "company": "64c23350e32f4a51b19b9219",
+    "price": 1848,
+    "colors": [
+      "#ffffff"
+    ],
+    "image": "/images/product-41.png",
+    "category": "64c23426d2f4a51b19b9203",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9661"
+    },
+    "name": "Shoes Model 40",
+    "company": "64c23350e32f4a51b19b9208",
+    "price": 948,
+    "colors": [
+      "#ff0000",
+      "#ffffff"
+    ],
+    "image": "/images/product-42.png",
+    "category": "64c23426d2f4a51b19b9229",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9662"
+    },
+    "name": "Fitness Band Model 1",
+    "company": "64c23350e32f4a51b19b9212",
+    "price": 2138,
+    "colors": [
+      "#0000ff",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-43.png",
+    "category": "64c23426d2f4a51b19b9222",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9663"
+    },
+    "name": "Fitness Band Model 6",
+    "company": "64c23350e32f4a51b19b9208",
+    "price": 1508,
+    "colors": [
+      "#000000",
+      "#ff0000"
+    ],
+    "image": "/images/product-44.png",
+    "category": "64c23426d2f4a51b19b9211",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9664"
+    },
+    "name": "Blender Model 22",
+    "company": "64c23350e32f4a51b19b9203",
+    "price": 1863,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-45.png",
+    "category": "64c23426d2f4a51b19b9219",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9665"
+    },
+    "name": "Tablet Model 44",
+    "company": "64c23350e32f4a51b19b9208",
+    "price": 2806,
+    "colors": [
+      "#00ff00"
+    ],
+    "image": "/images/product-46.png",
+    "category": "64c23426d2f4a51b19b9212",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9666"
+    },
+    "name": "Microwave Model 26",
+    "company": "64c23350e32f4a51b19b9225",
+    "price": 2563,
+    "colors": [
+      "#0000ff",
+      "#000000",
+      "#00ff00"
+    ],
+    "image": "/images/product-47.png",
+    "category": "64c23426d2f4a51b19b9216",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9667"
+    },
+    "name": "Tablet Model 23",
+    "company": "64c23350e32f4a51b19b9213",
+    "price": 2378,
+    "colors": [
+      "#0000ff",
+      "#000000",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-48.png",
+    "category": "64c23426d2f4a51b19b9209",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9668"
+    },
+    "name": "Skin Care Kit Model 4",
+    "company": "64c23350e32f4a51b19b9221",
+    "price": 2777,
+    "colors": [
+      "#aaaaaa",
+      "#ffffff"
+    ],
+    "image": "/images/product-49.png",
+    "category": "64c23426d2f4a51b19b9220",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9669"
+    },
+    "name": "Gaming Console Model 6",
+    "company": "64c23350e32f4a51b19b9204",
+    "price": 965,
+    "colors": [
+      "#333333"
+    ],
+    "image": "/images/product-50.png",
+    "category": "64c23426d2f4a51b19b9228",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9670"
+    },
+    "name": "Sunglasses Model 11",
+    "company": "64c23350e32f4a51b19b9212",
+    "price": 2934,
+    "colors": [
+      "#ff0000",
+      "#aaaaaa",
+      "#00ff00"
+    ],
+    "image": "/images/product-51.png",
+    "category": "64c23426d2f4a51b19b9220",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9671"
+    },
+    "name": "Skin Care Kit Model 50",
+    "company": "64c23350e32f4a51b19b9221",
+    "price": 1762,
+    "colors": [
+      "#ff0000",
+      "#333333"
+    ],
+    "image": "/images/product-52.png",
+    "category": "64c23426d2f4a51b19b9210",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9672"
+    },
+    "name": "Air Purifier Model 10",
+    "company": "64c23350e32f4a51b19b9216",
+    "price": 629,
+    "colors": [
+      "#00ff00",
+      "#ff0000",
+      "#333333"
+    ],
+    "image": "/images/product-53.png",
+    "category": "64c23426d2f4a51b19b9210",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9673"
+    },
+    "name": "Camera Model 32",
+    "company": "64c23350e32f4a51b19b9214",
+    "price": 1740,
+    "colors": [
+      "#000000",
+      "#0000ff",
+      "#333333"
+    ],
+    "image": "/images/product-54.png",
+    "category": "64c23426d2f4a51b19b9228",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9674"
+    },
+    "name": "Smartphone Model 49",
+    "company": "64c23350e32f4a51b19b9223",
+    "price": 436,
+    "colors": [
+      "#0000ff",
+      "#ff0000"
+    ],
+    "image": "/images/product-55.png",
+    "category": "64c23426d2f4a51b19b9225",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9675"
+    },
+    "name": "Sunglasses Model 17",
+    "company": "64c23350e32f4a51b19b9225",
+    "price": 2361,
+    "colors": [
+      "#333333",
+      "#0000ff",
+      "#ffffff"
+    ],
+    "image": "/images/product-56.png",
+    "category": "64c23426d2f4a51b19b9204",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9676"
+    },
+    "name": "Backpack Model 47",
+    "company": "64c23350e32f4a51b19b9203",
+    "price": 1896,
+    "colors": [
+      "#ffffff",
+      "#00ff00",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-57.png",
+    "category": "64c23426d2f4a51b19b9205",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9677"
+    },
+    "name": "Refrigerator Model 10",
+    "company": "64c23350e32f4a51b19b9227",
+    "price": 2683,
+    "colors": [
+      "#0000ff",
+      "#333333",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-58.png",
+    "category": "64c23426d2f4a51b19b9201",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9678"
+    },
+    "name": "Washing Machine Model 33",
+    "company": "64c23350e32f4a51b19b9216",
+    "price": 101,
+    "colors": [
+      "#333333",
+      "#ff0000",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-59.png",
+    "category": "64c23426d2f4a51b19b9222",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9679"
+    },
+    "name": "Smartphone Model 11",
+    "company": "64c23350e32f4a51b19b9206",
+    "price": 240,
+    "colors": [
+      "#ffffff"
+    ],
+    "image": "/images/product-60.png",
+    "category": "64c23426d2f4a51b19b9206",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9680"
+    },
+    "name": "Microwave Model 45",
+    "company": "64c23350e32f4a51b19b9203",
+    "price": 1916,
+    "colors": [
+      "#333333"
+    ],
+    "image": "/images/product-61.png",
+    "category": "64c23426d2f4a51b19b9209",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9681"
+    },
+    "name": "Headphones Model 45",
+    "company": "64c23350e32f4a51b19b9206",
+    "price": 2477,
+    "colors": [
+      "#ff0000",
+      "#00ff00",
+      "#aaaaaa"
+    ],
+    "image": "/images/product-62.png",
+    "category": "64c23426d2f4a51b19b9226",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9682"
+    },
+    "name": "Camera Model 35",
+    "company": "64c23350e32f4a51b19b9209",
+    "price": 441,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-63.png",
+    "category": "64c23426d2f4a51b19b9206",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9683"
+    },
+    "name": "Skin Care Kit Model 32",
+    "company": "64c23350e32f4a51b19b9208",
+    "price": 1386,
+    "colors": [
+      "#ffffff"
+    ],
+    "image": "/images/product-64.png",
+    "category": "64c23426d2f4a51b19b9209",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9684"
+    },
+    "name": "Tablet Model 34",
+    "company": "64c23350e32f4a51b19b9221",
+    "price": 278,
+    "colors": [
+      "#000000",
+      "#ff0000"
+    ],
+    "image": "/images/product-65.png",
+    "category": "64c23426d2f4a51b19b9215",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9685"
+    },
+    "name": "Shoes Model 23",
+    "company": "64c23350e32f4a51b19b9226",
+    "price": 2654,
+    "colors": [
+      "#00ff00",
+      "#333333",
+      "#0000ff"
+    ],
+    "image": "/images/product-66.png",
+    "category": "64c23426d2f4a51b19b9206",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9686"
+    },
+    "name": "Skin Care Kit Model 19",
+    "company": "64c23350e32f4a51b19b9226",
+    "price": 396,
+    "colors": [
+      "#ffffff",
+      "#00ff00",
+      "#333333"
+    ],
+    "image": "/images/product-67.png",
+    "category": "64c23426d2f4a51b19b9210",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9687"
+    },
+    "name": "4K TV Model 4",
+    "company": "64c23350e32f4a51b19b9220",
+    "price": 936,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-68.png",
+    "category": "64c23426d2f4a51b19b9220",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9688"
+    },
+    "name": "Air Purifier Model 11",
+    "company": "64c23350e32f4a51b19b9216",
+    "price": 2368,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-69.png",
+    "category": "64c23426d2f4a51b19b9208",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9689"
+    },
+    "name": "Gaming Console Model 25",
+    "company": "64c23350e32f4a51b19b9219",
+    "price": 921,
+    "colors": [
+      "#000000",
+      "#ff0000"
+    ],
+    "image": "/images/product-70.png",
+    "category": "64c23426d2f4a51b19b9200",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9690"
+    },
+    "name": "4K TV Model 46",
+    "company": "64c23350e32f4a51b19b9216",
+    "price": 1440,
+    "colors": [
+      "#ffffff"
+    ],
+    "image": "/images/product-71.png",
+    "category": "64c23426d2f4a51b19b9213",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9691"
+    },
+    "name": "Sunglasses Model 4",
+    "company": "64c23350e32f4a51b19b9215",
+    "price": 1703,
+    "colors": [
+      "#ff0000"
+    ],
+    "image": "/images/product-72.png",
+    "category": "64c23426d2f4a51b19b9205",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9692"
+    },
+    "name": "Smartwatch Model 41",
+    "company": "64c23350e32f4a51b19b9223",
+    "price": 2932,
+    "colors": [
+      "#00ff00",
+      "#0000ff",
+      "#ff0000"
+    ],
+    "image": "/images/product-73.png",
+    "category": "64c23426d2f4a51b19b9205",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9693"
+    },
+    "name": "Refrigerator Model 21",
+    "company": "64c23350e32f4a51b19b9208",
+    "price": 72,
+    "colors": [
+      "#ffffff"
+    ],
+    "image": "/images/product-74.png",
+    "category": "64c23426d2f4a51b19b9211",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9694"
+    },
+    "name": "Microwave Model 46",
+    "company": "64c23350e32f4a51b19b9211",
+    "price": 1258,
+    "colors": [
+      "#000000"
+    ],
+    "image": "/images/product-75.png",
+    "category": "64c23426d2f4a51b19b9221",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9695"
+    },
+    "name": "Sunglasses Model 50",
+    "company": "64c23350e32f4a51b19b9207",
+    "price": 2812,
+    "colors": [
+      "#ff0000",
+      "#ffffff"
+    ],
+    "image": "/images/product-76.png",
+    "category": "64c23426d2f4a51b19b9201",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9696"
+    },
+    "name": "Tablet Model 3",
+    "company": "64c23350e32f4a51b19b9227",
+    "price": 2971,
+    "colors": [
+      "#0000ff",
+      "#333333",
+      "#000000"
+    ],
+    "image": "/images/product-77.png",
+    "category": "64c23426d2f4a51b19b9218",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9697"
+    },
+    "name": "Smartphone Model 45",
+    "company": "64c23350e32f4a51b19b9224",
+    "price": 1321,
+    "colors": [
+      "#0000ff"
+    ],
+    "image": "/images/product-78.png",
+    "category": "64c23426d2f4a51b19b9220",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9698"
+    },
+    "name": "Smartphone Model 41",
+    "company": "64c23350e32f4a51b19b9202",
+    "price": 2567,
+    "colors": [
+      "#00ff00"
+    ],
+    "image": "/images/product-79.png",
+    "category": "64c23426d2f4a51b19b9205",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9699"
+    },
+    "name": "Backpack Model 24",
+    "company": "64c23350e32f4a51b19b9218",
+    "price": 1072,
+    "colors": [
+      "#ffffff",
+      "#00ff00"
+    ],
+    "image": "/images/product-80.png",
+    "category": "64c23426d2f4a51b19b9218",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9700"
+    },
+    "name": "Backpack Model 19",
+    "company": "64c23350e32f4a51b19b9201",
+    "price": 701,
+    "colors": [
+      "#00ff00",
+      "#aaaaaa",
+      "#ff0000"
+    ],
+    "image": "/images/product-81.png",
+    "category": "64c23426d2f4a51b19b9216",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9701"
+    },
+    "name": "Camera Model 44",
+    "company": "64c23350e32f4a51b19b9224",
+    "price": 1830,
+    "colors": [
+      "#333333"
+    ],
+    "image": "/images/product-82.png",
+    "category": "64c23426d2f4a51b19b9228",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9702"
+    },
+    "name": "Sunglasses Model 16",
+    "company": "64c23350e32f4a51b19b9208",
+    "price": 676,
+    "colors": [
+      "#ffffff",
+      "#00ff00",
+      "#333333"
+    ],
+    "image": "/images/product-83.png",
+    "category": "64c23426d2f4a51b19b9228",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9703"
+    },
+    "name": "Blender Model 27",
+    "company": "64c23350e32f4a51b19b9203",
+    "price": 2445,
+    "colors": [
+      "#000000",
+      "#ff0000"
+    ],
+    "image": "/images/product-84.png",
+    "category": "64c23426d2f4a51b19b9229",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9704"
+    },
+    "name": "Camera Model 15",
+    "company": "64c23350e32f4a51b19b9204",
+    "price": 1702,
+    "colors": [
+      "#ff0000",
+      "#0000ff",
+      "#00ff00"
+    ],
+    "image": "/images/product-85.png",
+    "category": "64c23426d2f4a51b19b9224",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9705"
+    },
+    "name": "4K TV Model 46",
+    "company": "64c23350e32f4a51b19b9203",
+    "price": 309,
+    "colors": [
+      "#333333",
+      "#ffffff",
+      "#000000"
+    ],
+    "image": "/images/product-86.png",
+    "category": "64c23426d2f4a51b19b9210",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9706"
+    },
+    "name": "Sunglasses Model 10",
+    "company": "64c23350e32f4a51b19b9210",
+    "price": 1723,
+    "colors": [
+      "#000000",
+      "#333333",
+      "#ff0000"
+    ],
+    "image": "/images/product-87.png",
+    "category": "64c23426d2f4a51b19b9202",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9707"
+    },
+    "name": "Gaming Console Model 18",
+    "company": "64c23350e32f4a51b19b9216",
+    "price": 1248,
+    "colors": [
+      "#000000",
+      "#ffffff"
+    ],
+    "image": "/images/product-88.png",
+    "category": "64c23426d2f4a51b19b9210",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9708"
+    },
+    "name": "Skin Care Kit Model 16",
+    "company": "64c23350e32f4a51b19b9222",
+    "price": 1829,
+    "colors": [
+      "#aaaaaa"
+    ],
+    "image": "/images/product-89.png",
+    "category": "64c23426d2f4a51b19b9207",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9709"
+    },
+    "name": "Laptop Model 20",
+    "company": "64c23350e32f4a51b19b9225",
+    "price": 2030,
+    "colors": [
+      "#aaaaaa",
+      "#ffffff"
+    ],
+    "image": "/images/product-90.png",
+    "category": "64c23426d2f4a51b19b9219",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9710"
+    },
+    "name": "Tablet Model 8",
+    "company": "64c23350e32f4a51b19b9214",
+    "price": 1152,
+    "colors": [
+      "#333333",
+      "#000000",
+      "#0000ff"
+    ],
+    "image": "/images/product-91.png",
+    "category": "64c23426d2f4a51b19b9214",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9711"
+    },
+    "name": "Smartwatch Model 26",
+    "company": "64c23350e32f4a51b19b9201",
+    "price": 704,
+    "colors": [
+      "#000000",
+      "#ffffff",
+      "#333333"
+    ],
+    "image": "/images/product-92.png",
+    "category": "64c23426d2f4a51b19b9206",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9712"
+    },
+    "name": "Blender Model 25",
+    "company": "64c23350e32f4a51b19b9202",
+    "price": 2095,
+    "colors": [
+      "#00ff00",
+      "#0000ff",
+      "#333333"
+    ],
+    "image": "/images/product-93.png",
+    "category": "64c23426d2f4a51b19b9222",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9713"
+    },
+    "name": "Washing Machine Model 37",
+    "company": "64c23350e32f4a51b19b9206",
+    "price": 1515,
+    "colors": [
+      "#00ff00",
+      "#ffffff",
+      "#333333"
+    ],
+    "image": "/images/product-94.png",
+    "category": "64c23426d2f4a51b19b9227",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9714"
+    },
+    "name": "Smart Speaker Model 37",
+    "company": "64c23350e32f4a51b19b9222",
+    "price": 439,
+    "colors": [
+      "#000000"
+    ],
+    "image": "/images/product-95.png",
+    "category": "64c23426d2f4a51b19b9203",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9715"
+    },
+    "name": "Blender Model 49",
+    "company": "64c23350e32f4a51b19b9209",
+    "price": 2311,
+    "colors": [
+      "#ffffff"
+    ],
+    "image": "/images/product-96.png",
+    "category": "64c23426d2f4a51b19b9219",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9716"
+    },
+    "name": "Gaming Console Model 33",
+    "company": "64c23350e32f4a51b19b9213",
+    "price": 816,
+    "colors": [
+      "#00ff00",
+      "#000000"
+    ],
+    "image": "/images/product-97.png",
+    "category": "64c23426d2f4a51b19b9229",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9717"
+    },
+    "name": "Sunglasses Model 6",
+    "company": "64c23350e32f4a51b19b9212",
+    "price": 832,
+    "colors": [
+      "#0000ff",
+      "#ffffff",
+      "#00ff00"
+    ],
+    "image": "/images/product-98.png",
+    "category": "64c23426d2f4a51b19b9229",
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9718"
+    },
+    "name": "Smartwatch Model 19",
+    "company": "64c23350e32f4a51b19b9227",
+    "price": 2741,
+    "colors": [
+      "#00ff00",
+      "#ffffff",
+      "#000000"
+    ],
+    "image": "/images/product-99.png",
+    "category": "64c23426d2f4a51b19b9211",
+    "isFeatured": false
+  },
+  {
+    "_id": {
+      "$oid": "64c2360132f4a51b19b9719"
+    },
+    "name": "Smart Speaker Model 39",
+    "company": "64c23350e32f4a51b19b9227",
+    "price": 492,
+    "colors": [
+      "#ff0000"
+    ],
+    "image": "/images/product-100.png",
+    "category": "64c23426d2f4a51b19b9211",
+    "isFeatured": false
+  }
+]
